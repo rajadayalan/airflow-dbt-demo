@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/rajadsh/f7850c39-4ba9-4ae1-813a-efddc6fa8e13/df782807-438c-4a06-b2df-c649fb14e61f/_apis/work/boardbadge/d4cc1c98-4bfb-4c7d-ab5b-368e84f7931a)](https://dev.azure.com/rajadsh/f7850c39-4ba9-4ae1-813a-efddc6fa8e13/_boards/board/t/df782807-438c-4a06-b2df-c649fb14e61f/Microsoft.RequirementCategory)
 # Airflow DAGs for dbt
 
 > The code in this repository is meant to accompany [this blog post](https://astronomer.io/blog) on beginner and advanced implementation concepts at the intersection of dbt and Airflow.
